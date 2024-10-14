@@ -16,7 +16,9 @@ which is attached to their paper
 Rep. Prog. Phys. **80** 024001 (2017).
 
 in turn, you also need CVX and QETLAB.
+
 [CVX](http://cvxr.com/) - a Matlab-based convex modeling framework
+
 [QETLAB](http://www.qetlab.com/) - A MATLAB Toolbox for Quantum Entanglement
 
 ## How to run
