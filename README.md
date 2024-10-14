@@ -8,11 +8,13 @@ Thes values of r are not unique, we have found them by searching for the value o
 ## Language and Requirements
 
 Note: These codes are written in MATLAB.
+
 Note: These codes need the codes by Daniel Cavalcanti and Paul Skrzypczyk 
 https://github.com/paulskrzypczyk/steeringreview
 which is attached to their paper
 *[Quantum steering: a review with focus on semi-definite programming](https://doi.org/10.1088/1361-6633/80/2/024001)*      
-Rep. Prog. Phys. **80** 024001 (2017), which are available here: https://github.com/paulskrzypczyk/steeringreview/blob/master/JMPOVMs.m
+Rep. Prog. Phys. **80** 024001 (2017).
+
 in turn, you also need CVX and QETLAB.
 [CVX](http://cvxr.com/) - a Matlab-based convex modeling framework
 [QETLAB](http://www.qetlab.com/) - A MATLAB Toolbox for Quantum Entanglement
