@@ -21,8 +21,13 @@ in turn, you also need CVX and QETLAB.
 
 ## How to run
 Open Run_m.m
+
 set "proj=2" (which projects into the 3-d Hilbert soace)
+
 set "n" to your desired value
+
 set "radius" to your desired value (you can use Table 1 in the paper)
+
 set "tau" to your desired value, or according to the Table 1. 
+
 run the code. It tells you if the set is compatible or not.
