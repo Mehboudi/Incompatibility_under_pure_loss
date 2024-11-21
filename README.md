@@ -1,5 +1,5 @@
 # Incompatibility_under_pure_loss
-These codes are attached to our new draft entitled "Measurement incompatibility never breaks under pure loss". The paper is available [here]([url](https://doi.org/10.48550/arXiv.2411.05920)). 
+These codes are attached to our new draft entitled "Measurement incompatibility never breaks under pure loss". The paper is available [here]([https://doi.org/10.48550/arXiv.2411.05920]). 
 It will reproduce the results of Table 1.
 
 We consider a set of n+1 measurements, based on displaced on-off photo-detection. We truncate to the d=2/3 dimensional subspace. And then we prove that the set are incompatible for the values of r described in the table. 
