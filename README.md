@@ -1,6 +1,6 @@
 # Incompatibility_under_pure_loss
 ## Update 15th of Jan. 2025
-The newly added d2Run_m.m confirm that for 3<=n<=14 the set of displaced on-off photodetection measurements with r=0.015 remain incompatible under tau=1/(n-1), even within the qubit subspace (i.e., projecting into |0> and  |1> subspace). 
+The newly added d2Run_m.m confirm that for 3<=n<=14 the set of displaced on-off photodetection measurements with r=0.015 remain incompatible under tau=1/(n-1), even within the qubit subspace (i.e., projecting into |0> and  |1> subspace). To run this code, open it, in the first line set "nn=n" where n is the number of measurements. Then run the code. 
 
 ## Original instructions
 These codes are attached to our new draft entitled "Measurement incompatibility never breaks under pure loss". The paper is available here: https://doi.org/10.48550/arXiv.2411.05920
