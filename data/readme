@@ -1,0 +1,32 @@
+# README.txt
+# -----------------------------------------------------------------------------
+#
+# Data for: "Measurement incompatibility under loss"
+# Authors: Mohammad Mehboudi, Fatemeh Rezaeinia, and Saleh Rahimi-Keshari
+#
+# This file describes the contents of data.csv.
+# The data corresponds to Table I in the manuscript. It provides the parameters
+# for a set of n+1 measurements that are proven to remain incompatible
+# under a loss channel with transmissivity tau_min.
+#
+# The data was generated via numerical simulation using semi-definite
+# programming (SDP) to test for measurement incompatibility.
+#
+# COLUMNS in data.csv:
+#
+# 1. n: (integer)
+#    The number of measurements in the set being made compatible by a loss
+#    channel with transmissivity 1/n. 
+#
+# 2. r: (float)
+#    The amplitude of the coherent states |mu_k> = r * exp[i*2*(k-1)*pi/(n+1)]
+#    used in the construction of the on-off photodetection measurements.
+#
+# 3. tau_min: (float)
+#    The minimum transmissivity of the loss channel under which the set of
+#    n measurements remains incompatible. This value is calculated as
+#    tau_min = (1/n) + epsilon, where the value of epsilon is found
+#    numerically such that the set remains incompatible.
+#
+# -----------------------------------------------------------------------------
+
